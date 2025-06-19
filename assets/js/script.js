@@ -1,3 +1,4 @@
+alert("This is beta version of main site (https://sussypranav.is-a.dev) so yeah it might contain a lot of issues. if you find any issues/bug/want to suggest, go to about this page tab");
 function createAlertBox(x) {
     const alertBox = document.createElement('div');
     alertBox.className = 'alert';
